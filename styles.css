@@ -4,21 +4,21 @@ body {
 }
 
 .unselected {
-    border: 4px solid lime;
-    color: white;
+    border: 4px solid #4343A6;
+    color: #4343A6;
     text-decoration:none;
-    padding:5px;
-    margin:5px;
+    padding:10px;
+    margin:10px;
     border-radius: 10px;
 }
 
 .selected {
-    border: 4px solid lime;
-    background-color:forestgreen;
+    border: 4px solid #4343A6;
+    background-color:#4343A6;
     color:white;
     text-decoration: underline;
-    padding:5px;
-    margin:5px;
+    padding:10px;
+    margin:10px;
     border-radius: 10px;
 }
 
@@ -29,10 +29,11 @@ body {
 .navc {
     padding:10px;
     margin:10px;
-    background-color:forestgreen;
-    border: 3.5px solid lime;
+    background-color:lightskyblue;
+    border: 7px solid lightskyblue;
     border-radius: 10px;
 }
+
 
 header {
     text-align:center;
